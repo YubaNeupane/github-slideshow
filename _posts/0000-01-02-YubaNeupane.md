@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 
-Your text
+Yo Yo, Its your boi Yuba
 Use the left arrow to go back!
